@@ -1,4 +1,4 @@
-# Student Grade Prediction Model (Predicció de la Nota de l'Estudiant)
+# GRADE PREDICTION MODEL (Model de predicció de Nota Acadèmica)
 
 ## Autors
 | **Nom**               | **NIU**   |
